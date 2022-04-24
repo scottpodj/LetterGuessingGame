@@ -1,4 +1,4 @@
-# import only system from os
+# check if this works on Windows or Unix
 from os import system, name
 
 
